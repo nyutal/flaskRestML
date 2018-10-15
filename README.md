@@ -2,7 +2,7 @@
 
 ## Server
 
-- pull repostiroy
+- pull repository
 - type:  
 `python src/app.py`
 
